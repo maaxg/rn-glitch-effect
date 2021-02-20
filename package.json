@@ -1,0 +1,24 @@
+{
+  "name": "rn-glitch-effect",
+  "version": "1.0.0",
+  "description": "A react-native library that glitches some text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maaxg/rn-glitch-effect.git"
+  },
+  "keywords": [
+    "rn-glitch-effect",
+    "glitch-effect",
+    "glitch"
+  ],
+  "author": "maaxg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maaxg/rn-glitch-effect/issues"
+  },
+  "homepage": "https://github.com/maaxg/rn-glitch-effect#readme"
+}
