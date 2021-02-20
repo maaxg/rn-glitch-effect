@@ -1,6 +1,6 @@
 {
   "name": "rn-glitch-effect",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A react-native library that glitches some text",
   "main": "index.js",
   "scripts": {
