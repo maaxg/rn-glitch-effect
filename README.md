@@ -2,8 +2,8 @@
 
 # Welcome to Glitch Effect :wave: 
 
-![glitch(1)](https://user-images.githubusercontent.com/49838612/108607576-f4dc3a80-739f-11eb-80bc-13863f83bdaf.gif) ![glitch-button](https://user-images.githubusercontent.com/49838612/108607413-14bf2e80-739f-11eb-80cd-916449e94b6d.gif) !
-[image-glitch](https://user-images.githubusercontent.com/49838612/108854996-3d297180-75c7-11eb-8db5-ed190c63aa41.gif)
+![glitch(1)](https://user-images.githubusercontent.com/49838612/108607576-f4dc3a80-739f-11eb-80bc-13863f83bdaf.gif) ![glitch-button](https://user-images.githubusercontent.com/49838612/108607413-14bf2e80-739f-11eb-80cd-916449e94b6d.gif)
+![image-glitch](https://user-images.githubusercontent.com/49838612/108854996-3d297180-75c7-11eb-8db5-ed190c63aa41.gif)
 
 
 ## What is React native Glitch Effect?
