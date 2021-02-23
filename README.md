@@ -108,7 +108,7 @@ export default App;
 ```
 
 ```javascript
-  import React from 'react';
+import React from 'react';
 import {StyleSheet, View} from 'react-native';
 import {Glitch, GlitchImage} from 'rn-glitch-effect';
 import Gator from './assets/images/gator.jpeg';
